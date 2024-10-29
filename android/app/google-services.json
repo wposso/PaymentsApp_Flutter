@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "219119315316",
+    "firebase_url": "https://payments-85f81-default-rtdb.firebaseio.com",
+    "project_id": "payments-85f81",
+    "storage_bucket": "payments-85f81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219119315316:android:061df17d1276627de62421",
+        "android_client_info": {
+          "package_name": "com.softdecom.paymentsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_V8frJ5nraDgRet2D0iI80PuybKrlFfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
